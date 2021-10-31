@@ -1,7 +1,7 @@
 # Р "Специалист по Data Science"
 
 Этот репозиторий может служить примером того, как нужно оформлять свои проекты в резюме.
-<a href="https://sun9-58.userapi.com/c845120/v845120357/191e11/LfsgKtO-vkA.jpg"><img width=100% src="https://sun9-58.userapi.com/c845120/v845120357/191e11/LfsgKtO-vkA.jpg"></a><br><br>
+<a href="https://sun9-58.userapi.com/c845120/v845120357/191e11/LfsgKtO-vkA.jpg"><img width=100%></a><br><br>
 
 ## Пример описания проектов в README.md
 
